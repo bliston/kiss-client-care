@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="215" height="215" viewBox="0, 0, 215, 215">
+  <g id="Background">
+    <rect x="0" y="0" width="215" height="215" fill="#FFFFFF"/>
+  </g>
+  <defs>
+    <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="211.899" y1="1.21" x2="115.94" y2="1.21" gradientTransform="matrix(0.707, 0.707, -0.707, 0.707, 0, 0)">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#D0D6D9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="button">
+    <g>
+      <path d="M0,-0 L215,-0 L215,215 L0,215 L0,-0" fill="#FFFFFF"/>
+      <path d="M164.425,81.284 L191.406,108.264 L106.553,193.117 L46.515,133.079 C47.379,129.511 46.981,131.434 47.651,127.297 C48.151,123.493 48.155,119.649 48.144,115.82 L80.221,83.743 C80.715,83.951 80.418,83.861 81.133,83.933 C84.971,83.933 88.956,84.039 93.973,84.253 C95.717,84.327 97.11,84.391 100.262,84.541 C118.418,85.405 126.547,85.454 136.817,84.246 C137.889,84.145 138.473,83.478 139.094,82.692 C142.078,82.755 145.063,82.795 148.048,82.837 C152.881,82.9 157.42,82.933 161.8,82.933 C162.906,82.887 163.981,82.34 164.425,81.284 z" fill="url(#Gradient_1)"/>
+      <g>
+        <path d="M166.367,83 L166.367,133 L46.367,133 L46.367,83 L166.367,83 z" fill="#FFFFFF"/>
+        <path d="M166.367,83 L166.367,133 L46.367,133 L46.367,83 L166.367,83 z" fill-opacity="0" stroke="#919191" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

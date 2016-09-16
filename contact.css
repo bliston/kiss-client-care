@@ -1,0 +1,106 @@
+/*
+Contact Form by html-form-guide.com
+You can customize all the aspects of the form in this style sheet
+All the style elements use form id selector(notice the #contactus). So, including this
+stylesheet does not affect the other elements at all!
+*/
+
+#contactus fieldset
+{
+ 
+}
+
+#contactus legend, h2
+{
+
+}
+
+#contactus label
+{
+
+}
+
+#contactus input[type="text"],textarea
+{
+
+
+}
+
+#contactus input[type="text"]
+{
+
+  
+}
+
+#contactus #scaptcha
+{
+
+}
+
+#contactus input[type="submit"]
+{
+ 
+}
+
+#contactus textarea
+{
+
+ 
+}
+
+#contactus input[type="text"]:focus,textarea:focus
+{
+
+
+}
+
+#contactus .container
+{
+
+}
+
+#contactus .error
+{
+
+   background-color : #ffff00;
+}
+
+#contactus fieldset#antispam
+{
+   padding:2px;
+   border-top:1px solid #EEE;
+   border-left:0;
+   border-right:0;
+   border-bottom:0;
+   width:350px;
+}
+
+#contactus fieldset#antispam legend
+{
+
+
+}
+
+#contactus .short_explanation
+{
+ 
+}
+
+/* spam_trap: This input is hidden. This is here to trick the spam bots*/
+#contactus .spmhidip
+{
+   display:none;
+   width:10px;
+   height:3px;
+}
+#fg_crdiv
+{
+
+   opacity: .2;
+   -moz-opacity: .2;
+   filter: alpha(opacity=20);   
+}
+#fg_crdiv p
+{
+    display:none;
+}

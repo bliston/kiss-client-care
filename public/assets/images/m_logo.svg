@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="340" height="176.5" viewBox="0, 0, 340, 176.5">
+  <defs>
+    <clipPath id="Clip_1">
+      <path d="M201.366,-2 L256.634,-2 L256.634,45.792 L201.366,45.792 z M254.634,0.002 L208.633,0.003 C205.533,-0.101 203.541,2.825 203.366,6.299 L203.542,43.792 L215.481,43.792 L215.481,11.737 L222.855,11.737 L222.855,43.792 L234.092,43.792 L234.092,11.737 L241.641,11.737 L241.641,43.792 L254.283,43.792 L254.634,0.002 z"/>
+    </clipPath>
+    <filter id="Shadow_2">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="0"/>
+      <feOffset dx="1" dy="1" result="offsetblur"/>
+      <feFlood flood-color="#767676"/>
+      <feComposite in2="offsetblur" operator="in"/>
+    </filter>
+    <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="206.5" y1="54" x2="500" y2="54">
+      <stop offset="0" stop-color="#757575"/>
+      <stop offset="0.521" stop-color="#AFAFAF" stop-opacity="0.648"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="m_logo" transform="translate(-160, 121.75)">
+    <path d="M254.634,0.002 L254.283,43.792 L241.641,43.792 L241.641,11.737 L234.092,11.737 L234.092,43.792 L222.855,43.792 L222.855,11.737 L215.481,11.737 L215.481,43.792 L203.542,43.792 L203.366,6.299 C203.541,2.825 205.533,-0.101 208.633,0.003 L254.634,0.002 z" clip-path="url(#Clip_1)" filter="url(#Shadow_2)" fill="rgba(0,0,0,1)"/>
+    <path d="M206.5,53.25 L500,53.25 L500,54.75 L206.5,54.75 L206.5,53.25 z" fill="url(#Gradient_1)" opacity="0.4"/>
+    <path d="M160,-121.75 L260,-121.75 L260,-72.75 L160,-72.75 L160,-121.75 z" fill="#0C95FF" display="none"/>
+  </g>
+</svg>
